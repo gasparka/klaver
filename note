@@ -1,0 +1,4 @@
+import IPython.display
+# import librosa
+# y, sr = librosa.load(librosa.util.example_audio_file())
+IPython.display.Audio(data=nn, rate=48000)
